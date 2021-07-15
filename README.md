@@ -1,3 +1,2 @@
 # fonts
-
-Varias Tipografías
+Tipografías usadas en Windows
